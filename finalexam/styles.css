@@ -1,0 +1,72 @@
+/* Zoe Scott, 5/6/25, Final Exam Stylesheet */
+
+body {background-color: #99CCCC;
+	margin: 0px;
+	text-align: center;}
+	
+/* Style for the links */
+nav ul li a {text-decoration: none;
+    color: white;
+    padding: 8px 16px;}
+
+/* Hover effect */
+nav ul li a:hover {background-color: #008888;
+    color: white;}
+
+nav ul li a.active {background-color: #007777;
+	color: white;}
+	
+/* Link Display actions */
+a:visited {color: black;}
+a:link {color: darkblue;}
+a:active {color: white;}
+
+nav {text-align: center;}
+
+footer {text-align: center;}
+
+#wrapper {text-align: center;}
+
+/* Banner */
+#banner {background-color: #009999;
+	height: 200px;
+	text-align: center;
+	font-size: 2em;}
+
+#banner h1 {margin: 0px;
+	line-height: 200px;
+	float: up;
+	font-size: 2em;} 
+	
+#logo img {height: 100px;}
+	
+
+	
+.anatomy img {height: 200px;
+float: up;}
+
+
+ul {list-style-type: none;}
+
+.subtitle {color: darkblue;}
+
+#nav {
+    text-align: center;
+}
+
+#title {margin-top: 1em;
+	font-size: 3em;}
+
+/* Nav bar */
+#nav {background-color: #00AAAA;
+    text-align: center;
+    padding: 10px 0;}
+
+/* List */
+nav ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;}
+
+nav ul li { margin: 0 15px;}
+
